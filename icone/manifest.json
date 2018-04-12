@@ -2,7 +2,7 @@
     "name": "Camelo",
     "short_name": "Loja",
     "lang": "pt-BR",
-    "start_url": "/index.html",
+    "start_url": "/Aula-Mobile/index.html",
     "display": "standalone",
     "theme_color": "#f00",
     "icons": [
